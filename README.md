@@ -9,7 +9,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 - [#bots](channels/bots)
 
 ## NetAdmin Approved
-- #Chew
+- [#Chew](channels/chew)
 - #anarchy
 
 ## Official Bot Channels
