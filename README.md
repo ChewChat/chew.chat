@@ -22,7 +22,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 _Add your bot here in #bots_
 - [#Chewbotcca](channels/chewbotcca) - [Chewbotcca](http://github.com/Chewsterchew/ChewbotccaIRC)
 - [#CafeBabe](channels/cafebabe) - CafeBabe
-- #ircahbot - IRCahBot
+- [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
 - #RileyCraft
