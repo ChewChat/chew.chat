@@ -4,6 +4,9 @@ Repository for irc.chew.pro. PR if you want a channel added.
 
 # Network Help
 
+- [Join The Network](info/join)
+- [Add Your Channel Below](info/addchannel)
+- [Staff](info/staff)
 - [Network Rules](info/rules)
 
 # Channels
@@ -25,4 +28,5 @@ _Add your bot here in #bots_
 - [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
-- #RileyCraft
+
+Add your channel here! PM Chew or send a PR. Follow this guide:
