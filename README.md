@@ -6,7 +6,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 - [#lobby](channels/lobby)
 - [#suggestions](channels/suggestions)
 - [#help](channels/help)
-- #bots
+- [#bots](channels/bots)
 
 ## NetAdmin Approved
 - #Chew
