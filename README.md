@@ -1,5 +1,7 @@
 Repository for irc.chew.pro. PR if you want a channel added.
 
+<!-- Hey! Why are you modifying this file? I'll add the channels, you add the info! -->
+
 # Network Help
 
 - [Network Rules](info/rules)
@@ -19,7 +21,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 ## Official Bot Channels
 _Add your bot here in #bots_
 - [#Chewbotcca](channels/chewbotcca) - [Chewbotcca](http://github.com/Chewsterchew/ChewbotccaIRC)
-- #CafeBabe - CafeBabe
+- [#CafeBabe](channels/cafebabe) - CafeBabe
 - #ircahbot - IRCahBot
 
 ## User Owned Channels
