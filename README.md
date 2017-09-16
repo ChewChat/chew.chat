@@ -3,12 +3,12 @@ Repository for irc.chew.pro. PR if you want a channel added.
 # Channels
 
 ## Network Official
-- #lobby
+- [#lobby](channels/lobby)
 - #suggestions
 - #help
 - #bots
 
-## NetAdmin Approved 
+## NetAdmin Approved
 - #Chew
 - #anarchy
 
