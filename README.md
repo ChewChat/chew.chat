@@ -18,7 +18,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 
 ## Official Bot Channels
 _Add your bot here in #bots_
-- #Chewbotcca - Chewbotcca
+- [#Chewbotcca](channels/chewbotcca) - [Chewbotcca](http://github.com/Chewsterchew/ChewbotccaIRC)
 - #CafeBabe - CafeBabe
 - #ircahbot - IRCahBot
 
