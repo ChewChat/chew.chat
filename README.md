@@ -1,5 +1,9 @@
 Repository for irc.chew.pro. PR if you want a channel added.
 
+# Network Help
+
+- [Network Rules](info/rules)
+
 # Channels
 
 ## Network Official
