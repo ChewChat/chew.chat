@@ -2,7 +2,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 
 <!-- Hey! Why are you modifying this file? I'll add the channels, you add the info! -->
 
-# Network Help
+# Network Information
 
 - [Join The Network](info/join)
 - [Add Your Channel Below](info/addchannel)
@@ -29,4 +29,4 @@ _Add your bot here in #bots_
 
 ## User Owned Channels
 
-Add your channel here! PM Chew or send a PR. Follow this guide:
+Add your channel here! PM Chew or send a PR. 
