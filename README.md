@@ -9,6 +9,10 @@ Repository for irc.chew.pro. PR if you want a channel added.
 - [Staff](info/staff)
 - [Network Rules](info/rules)
 
+# Network Guides and Help
+
+- [Registering with NickServ](help/registernickserv)
+
 # Channels
 
 ## Network Official
@@ -29,4 +33,4 @@ _Add your bot here in #bots_
 
 ## User Owned Channels
 
-Add your channel here! PM Chew or send a PR. 
+Add your channel here! PM Chew or send a PR.
