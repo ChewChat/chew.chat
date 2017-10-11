@@ -1,3 +1,7 @@
+---
+description: Channels, rules, guides, and more!
+---
+
 Repository for irc.chew.pro. PR if you want a channel added.
 
 <!-- Hey! Why are you modifying this file? I'll add the channels, you add the info! -->
