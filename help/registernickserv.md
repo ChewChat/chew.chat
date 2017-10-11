@@ -2,7 +2,7 @@
 
 | Table of Contents
 | ---------------------------------------------------------------------------------------------------------------
-| 1\. [Registering](#Registering)<br>2\. [Authenticating on Join](#Authenticating-on-Login)<br>3\. [BONUS: Auto-authenticating with IRCCloud](#bonus-auto-authenticating-with-irccloud)
+| 1\. [Registering](#Registering)<br>2\. [Authenticating on Login](#Authenticating-on-Login)<br>3\. [BONUS: Auto-authenticating with IRCCloud](#bonus-auto-authenticating-with-irccloud)
 
 ## Registering
 
