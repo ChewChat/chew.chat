@@ -12,6 +12,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 # Network Guides and Help
 
 - [Registering with NickServ](help/registernickserv)
+- [Getting a Hostmask](help/customhostmask)
 
 # Channels
 
