@@ -27,6 +27,7 @@ Repository for irc.chew.pro. PR if you want a channel added.
 - [#bots](channels/bots)
 
 ## NetAdmin Approved
+- [#Cah](channels/cah)
 - [#Chew](channels/chew)
 - [#anarchy](channels/anarchy)
 
