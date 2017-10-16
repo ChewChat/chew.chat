@@ -12,7 +12,7 @@ The official chat of the owner of the IRCahBot (irc.cahbot.pro) server.
 
 ## Rules
 
-[Channel specific rules?]
+1. The only rule? Use c o m m o n  s e n s e, I'm not going to bore you with a long rule list
 
 ## Channel Staff
 
