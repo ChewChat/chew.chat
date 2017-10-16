@@ -37,5 +37,5 @@ _Add your bot here in #bots_
 - [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
-
-Add your channel here! PM Chew or send a PR.
+_Add your channel here! PM Chew or send a PR._
+- [#CloudCity](channels/cloudcity)
