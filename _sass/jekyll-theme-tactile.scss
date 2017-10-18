@@ -1,9 +1,5 @@
 @import "rouge-base16-dark";
 
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -100,10 +96,6 @@ header h2 {
   max-width: 100%;
 }
 
-#downloads {
-  margin-bottom: 40px;
-}
-
 a.button {
   display: block;
   float: left;
@@ -154,12 +146,6 @@ a.button span {
   padding-left: 50px;
 }
 
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
-}
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
-}
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
@@ -198,9 +184,6 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
-
-/* COMMON STYLES */
-
 hr {
   height: 1px;
   padding-bottom: 1em;
@@ -238,9 +221,6 @@ form {
   background: #f2f2f2;
 
 }
-
-
-/* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
   font-size: 32px;
@@ -328,7 +308,6 @@ footer a:hover {
   color: #444;
 }
 
-/* MISC */
 .clearfix:after {
   display: block;
   height: 0;
