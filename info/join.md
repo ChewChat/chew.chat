@@ -6,6 +6,6 @@ IP: `irc.chew.pro` or `irc.cahbot.pro`
 Port: 6667
 No SSL...
 
-[KiwiIRC Link](https://kiwiirc.com/client/irc.chew.pro/#lobby) - No Sign-Up, Connection Closes on tab close
+[KiwiIRC Link](http://chewcraft.github.io/IRC/webchat) - No Sign-Up, Connection Closes on tab close
 
 [IRCCloud Link](https://www.irccloud.com/invite?channel=%23lobby&hostname=irc.chew.pro&port=6667) - Sign-Up AND Email Verification Needed. Won't close connection when tab closes.
