@@ -2,7 +2,7 @@
 
 | Table of Contents
 | ---------------------------------------------------------------------------------------------------------------
-| 1. [Introduction](#Introduction)<br>2\. [Server Hostmask](#Server-hostmask)<br>3\. [Custom Hostmask](#Custom-hostmask)<br>4\. [Extra Info](#extra-info)
+| 1. [Introduction](#introduction)<br>2\. [Server Hostmask](#server-hostmask)<br>3\. [Custom Hostmask](#custom-hostmask)<br>4\. [Extra Info](#extra-info)
 
 ## Introduction
 
