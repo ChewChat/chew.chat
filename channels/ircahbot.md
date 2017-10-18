@@ -10,17 +10,14 @@ Bot: [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## Description
 
-The owner of the channel has not specified a description.
-
-If you are the owner, send a PR or PM Chew.
+The super-official:tm: channel for the super-official:tm: IRC bot, IRCahBot! Travis build notifications and Notifico GitHub notifications for IRCB always get sent here.
 
 ## Rules
 
-The owner of the channel has not specified rules.
-
-If you are the owner, send a PR or PM Chew.
+Try to limit conversation solely towards IRCB or using its commands, we have other channels for unrelated conversations & whatnot.
 
 ## Channel Staff
 
 - Cah (Owner)
 - Chew (Channel Admin)
+- Saorn (Half-Op)
