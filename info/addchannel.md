@@ -42,3 +42,5 @@ Founder: [your nickname]
 # Modifying your channel info
 
 This is really simple to do! Just modify the file in your fork, send a PR, and after review will be modified!
+
+If you want to delete a channel, just delete the file and PR that change.
