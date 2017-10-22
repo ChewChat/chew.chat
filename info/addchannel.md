@@ -16,6 +16,8 @@ A staff will join on official network business if they aren't already there. The
 
 If you decide to PR yourself, follow this format. Replace []s with your input. Otherwise, add no modifications.
 
+Not viewing properly? Click [here](http://github.com/ChewCraft/IRC/blob/master/info/addchannel.md).
+
 ```markdown
 # #[channel name]
 
