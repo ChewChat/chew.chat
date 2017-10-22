@@ -2,7 +2,7 @@
 description: Channels, rules, guides, and more!
 ---
 
-Repository for irc.chew.pro. PR if you want a channel added.
+Repository for the ChewCraft IRC Network.
 
 <!-- Hey! Why are you modifying this file? I'll add the channels, you add the info! -->
 
@@ -38,5 +38,5 @@ _Add your bot here in #bots_
 - [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
-_Add your channel here! PM Chew or send a PR._
+_Add your channel here! PM Chew or [send a PR](https://github.com/ChewCraft/IRC/blob/master/info/addchannel.md)._
 - [#CloudCity](channels/cloudcity)
