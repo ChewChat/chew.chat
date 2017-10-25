@@ -1,9 +1,9 @@
 # Join The Network
 
-You can join the network via KiwiIrc or IRCCloud (web clients) or your own choice of desktop/mobile client. We prefer IRCCloud as your client because of its mobile apps and always online feature.
+You can join the network via KiwiIRC or IRCCloud (web clients) or your own choice of desktop/mobile client. We recommend IRCCloud as your client because of its mobile apps and always connected feature.
 
-IP: `irc.chew.pro` or `irc.cahbot.pro`
-Port: 6667
+IP: `irc.chew.pro` or `irc.cahbot.pro`<br>
+Port: 6667<br>
 No SSL...
 
 [KiwiIRC Link](http://chewcraft.github.io/IRC/webchat) - No Sign-Up, Connection Closes on tab close
