@@ -1,4 +1,4 @@
-# #[cats]
+# #cats
 
 Status: User Owned Channels
 
@@ -8,7 +8,7 @@ Founder: Saorn
 
 ## Description
 
-use this channel for cat spam and cat spam only!
+Use this channel for cat spam and cat spam only!
 
 ## Rules
 
