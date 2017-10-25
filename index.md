@@ -41,3 +41,4 @@ _Add your bot here in #bots_
 ## User Owned Channels
 _Add your channel here! PM Chew or [send a PR](https://github.com/ChewCraft/IRC/blob/master/info/addchannel.md)._
 - [#CloudCity](channels/cloudcity)
+- [#cats](channel/cats)
