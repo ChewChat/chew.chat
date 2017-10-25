@@ -25,6 +25,7 @@ Repository for the ChewCraft IRC Network.
 - [#suggestions](channels/suggestions)
 - [#help](channels/help)
 - [#bots](channels/bots)
+- [#website](channels/website)
 
 ## NetAdmin Approved
 - [#Cah](channels/cah)
