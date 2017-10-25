@@ -39,6 +39,11 @@ Founder: [your nickname]
 
 - [you] (Owner)
 - [other staff] [their rank]
+
+## Channel Bots
+
+- [bot name]
+- [bot name]
 ```
 
 # Modifying your channel info
