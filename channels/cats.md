@@ -17,3 +17,8 @@ Only cat images allowed! Anything else will result in a kick from the channel!
 ## Channel Staff
 
 - Saorn (Owner)
+
+## Channel Bots
+
+- Chewbotcca
+- Cafebabe
