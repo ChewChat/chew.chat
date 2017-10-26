@@ -19,3 +19,8 @@ No channel specific rules. Only Network Rules.
 ## Channel Staff
 
 The chat is unmoderated, but any violation of the network rules will result in network ban accordingly.
+
+## Channel Bots
+
+- CafeBabe
+- Chewbotcca
