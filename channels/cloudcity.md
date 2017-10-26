@@ -18,5 +18,5 @@ The official channel of the [CloudCity Minecraft Server](http://cloudcitymc.us)
 
 ## Channel Staff
 
-- Forastha (Owner)
+- Forastha (Owner / In-Game Owner)
 - Saorn (Half-op / In-Game Mod)
