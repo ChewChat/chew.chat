@@ -19,3 +19,9 @@ The official chat of the owner of the IRCahBot (irc.cahbot.pro) server.
 - Cah (Owner)
 - Saorn (Admin)
 - Chew (Half-op)
+
+## Channel Bots
+
+- IRCCahBot
+- Chewbotcca
+- CafeBabe
