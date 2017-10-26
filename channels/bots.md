@@ -27,3 +27,7 @@ In order for a bot to be either of the above, they MUST BE AUTHENTICATED WITH NI
 
 - Chew (Owner)
 - Cah (NetAdmin)
+
+## Channel Bots
+
+- Chewbotcca
