@@ -23,3 +23,9 @@ The main hub channel of the network. You automatically join this channel when yo
 - Chew (Owner)
 - Cah (NetAdmin)
 - Saorn (Helper)
+
+## Channel Bots
+
+- CafeBabe
+- Chewbotcca
+- ForasthaBOT
