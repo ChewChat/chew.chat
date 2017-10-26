@@ -43,6 +43,10 @@ Founder: [your nickname]
 ## Channel Bots
 
 - [bot name]
+
+## Channel Modes
++[all channel modes (capitalization matters!)]
+
 ```
 
 # Modifying your channel info
