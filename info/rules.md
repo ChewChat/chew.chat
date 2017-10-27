@@ -10,4 +10,4 @@ By joining the server, you agree to following these very simple rules.
 
 4) Spamming (or pinging) any network staff for any reason is strictly prohibited unless they specifically allow it in a channel.
 
-5) If your usermode includes +B you will be kicked! Do not pretend to be a bot!
+5) If your usermode includes +B you will get a network wide kick (kill)
