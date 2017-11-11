@@ -22,3 +22,10 @@ Try to limit conversation solely towards IRCB or using its commands, we have oth
 - Chew (Channel Admin)
 - advaith (Channel Op)
 - Saorn (Half-Op)
+
+## Bots
+
+- IRCahBot
+- CafeBabe
+- Chewbotcca
+- Notifico
