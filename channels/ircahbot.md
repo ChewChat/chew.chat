@@ -10,7 +10,7 @@ Bot: [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## Description
 
-The super-official:tm: channel for the super-official:tm: IRC bot, IRCahBot! Travis build notifications and Notifico GitHub notifications for IRCB always get sent here.
+The super-official™ channel for the super-official™ IRC bot, IRCahBot! Travis build notifications and Notifico GitHub notifications for IRCB always get sent here.
 
 ## Rules
 
@@ -20,4 +20,5 @@ Try to limit conversation solely towards IRCB or using its commands, we have oth
 
 - Cah (Owner)
 - Chew (Channel Admin)
+- advaith (Channel Op)
 - Saorn (Half-Op)
