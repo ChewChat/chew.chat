@@ -22,6 +22,6 @@ The official chat of the owner of the IRCahBot (irc.cahbot.pro) server.
 
 ## Channel Bots
 
-- IRCCahBot
+- IRCahBot
 - Chewbotcca
 - CafeBabe
