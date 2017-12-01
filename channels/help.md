@@ -19,4 +19,4 @@ The main help channel of the network. Come here for NETWORK SPECIFIC HELP. It's 
 ## Channel Staff
 
 - Chew (Owner)
-- Saorn (Helper)
+- Cah (Server Admin)
