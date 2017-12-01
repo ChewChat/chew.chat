@@ -19,8 +19,8 @@ Try to limit conversation solely towards IRCB or using its commands, we have oth
 ## Channel Staff
 
 - Cah (Owner)
-- Chew (Channel Admin)
-- advaith (Channel Op)
+- Chew (Admin)
+- advaith (Op)
 - Saorn (Half-Op)
 
 ## Bots
