@@ -28,4 +28,3 @@ Try to limit conversation solely towards IRCB or using its commands, we have oth
 - IRCahBot
 - CafeBabe
 - Chewbotcca
-- Notifico
