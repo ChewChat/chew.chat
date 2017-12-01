@@ -2,7 +2,7 @@
 
 Status: User Owned Channels
 
-Founder: Forastha
+Founder: Chew
 
 <!-- Add your channel info here -->
 
@@ -18,5 +18,5 @@ The official channel of the [CloudCity Minecraft Server](http://cloudcitymc.us)
 
 ## Channel Staff
 
-- Forastha (Owner / In-Game Admin)
+- Chew (Owner / In-Game Admin)
 - Saorn (Half-op / In-Game Mod)
