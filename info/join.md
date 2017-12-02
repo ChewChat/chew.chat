@@ -4,7 +4,7 @@ You can join the network via KiwiIRC or IRCCloud (web clients) or your own choic
 
 IP             | Port | SSL Port | Server Maintainer
 -------------- | ---- | -------- | -----------------
-irc.chew.pro   | 6667 | No SSL   | Chew
+irc.chew.pro   | 6667 | 6697   | Chew
 irc.cahbot.pro | 6667 | 6697     | Cah
 
 [KiwiIRC Link](http://chewcraft.github.io/IRC/webchat) - No Sign-Up, Connection Closes on tab close. Joins irc.chew.pro
