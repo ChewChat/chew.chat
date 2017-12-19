@@ -1,5 +1,5 @@
 ---
-description: Channels, rules, guides, and more!
+Description: Channels, Rules, Guides, and More!
 ---
 
 Repository for the ChewCraft IRC Network.
