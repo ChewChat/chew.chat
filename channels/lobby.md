@@ -17,6 +17,7 @@ The main hub channel of the network. You automatically join this channel when yo
 - Be nice to others.
 - Keep channel specific stuff to that channel. E.g. help to #help. Suggestions to #suggestions. Your remark may be lost otherwise.
 - Keep Bot Testing to your own channel or #anarchy.
+- Absolutely no `!lottery`. Any use without explicit permission is an instant kick(ban after 2nd offense)
 
 ## Channel Staff
 
