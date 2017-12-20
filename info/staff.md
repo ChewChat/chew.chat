@@ -2,10 +2,9 @@
 
 Here is a list of staff.
 
-Chew - Global NetAdmin
-
-mueslivines - NetAdmin
-
-Cah - irc.cahbot.pro NetAdmin
-
-Saorn - Global Helper
+Current Nick | Rank     | Staff on..
+------------ | -------- | ---------------
+Rylea        | NetAdmin | All servers.
+Cah          | NetAdmin | cah.chew.chat
+mueslivines  | NetAdmin | kitty.chew.chat
+Saorn        | Helper   | kitty.chew.chat
