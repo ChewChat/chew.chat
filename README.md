@@ -1,3 +1,3 @@
-### Public repository for the [ChewCraft](https://irc.chew.pro) IRC network.
+### Public repository for the [ChewChat](https://chew.chat) IRC network.
 
-[Check out the website](http://irc.chew.pro)
+[Check out the website](https://chew.chat)
