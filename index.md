@@ -2,7 +2,7 @@
 Description: Channels, Rules, Guides, and More!
 ---
 
-Repository for the ChewCraft IRC Network.
+Repository for the ChewChat IRC Network.
 
 <!-- Hey! Why are you modifying this file? I'll add the channels, you add the info! -->
 
