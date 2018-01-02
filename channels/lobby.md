@@ -22,5 +22,5 @@ The main hub channel of the network. You automatically join this channel when yo
 ## Channel Staff
 
 - Chew (Owner)
-- Cah (NetAdmin)
-- Saorn (Helper)
+- Cah (Admin)
+- Saorn (Op)
