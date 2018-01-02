@@ -30,7 +30,7 @@ Lazy? Use IRCCloud? You can authenticate with NickServ automatically!
 
 Head to the channel list and hover over the server name, and click this gear.
 
-![Head to the channel list and hover over the server name, and click this gear](https://user-images.githubusercontent.com/8278263/31468713-95d102c8-aea4-11e7-9255-a9d2e9996676.png)
+![Head to the channel list and hover over the server name, and click this gear](http://files.chew.pw/05e7458e310716704df5cffe03e8f02d.png)
 
 Click Identify Nickname on the dropdown menu.
 
