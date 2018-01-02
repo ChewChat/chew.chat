@@ -26,4 +26,4 @@ In order for a bot to be either of the above, they MUST BE AUTHENTICATED WITH NI
 ## Channel Staff
 
 - Chew (Owner)
-- Cah (NetAdmin)
+- Cah (Admin)
