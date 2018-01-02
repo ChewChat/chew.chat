@@ -2,7 +2,7 @@
 
 Status: NetAdmin Approved
 
-Founder: None
+Founder: N/A
 
 <!-- Add your channel info here -->
 
