@@ -7,7 +7,7 @@
 ## Introduction
 
 Requirement:
-[You MUST be identified with NickServ](http://chewcraft.github.io/IRC/help/registernickserv#Authenticating-on-Login)!
+[You MUST be identified with NickServ](http://chew.chat/help/registernickserv#Authenticating-on-Login)!
 
 Let’s get a hostmask.
 
