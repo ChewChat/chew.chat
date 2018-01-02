@@ -8,7 +8,7 @@ Founder: Chew
 
 ## Description
 
-The main help channel of the network. Come here for NETWORK SPECIFIC HELP. It's very easy to get kickbanned if you don't ask for the right reasons. Idling is allowed.
+The main help channel of the network. Come here for NETWORK SPECIFIC HELP. It's very easy to get kick-banned if you don't ask for the right reasons. Idling is allowed.
 
 ## Rules
 
@@ -19,4 +19,5 @@ The main help channel of the network. Come here for NETWORK SPECIFIC HELP. It's 
 ## Channel Staff
 
 - Chew (Owner)
-- Cah (Server Admin)
+- Cah (Admin)
+- Saorn (Half-Op)
