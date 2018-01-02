@@ -4,11 +4,11 @@ You can join the network via KiwiIRC or IRCCloud (web clients) or your own choic
 
 We recommend joining with `irc.chew.chat`, to join a random server. Below are direct IPs to each server.
 
-IP                | Status               | Port     | SSL Port | Server Maintainer
------------------ | -------------------- | -------- | -------- | -----------------
-kitty.chew.chat   | Active!              | 6667     | 6697     | Chew
-~~cah.chew.chat~~ | Down for Maintenance | ~~6667~~ | ~~6697~~ | ~~Cah~~
+IP              | Status  | Port | SSL Port | Server Maintainer
+--------------- | ------- | ---- | -------- | -----------------
+kitty.chew.chat | Active! | 6667 | 6697     | Chew
+cah.chew.chat   | Active! | 6667 | 6697     | Cah
 
-[KiwiIRC Link](http://chewcraft.github.io/IRC/webchat) - No Sign-Up, Connection Closes on tab close.
+[KiwiIRC Link](http://chew.chat/webchat) - No Sign-Up, Connection Closes on tab close.
 
 [IRCCloud Link](https://www.irccloud.com/invite?channel=%23lobby&hostname=irc.chew.pro&port=6667) - Sign-Up AND Email Verification Needed. Won't close connection when tab closes.
