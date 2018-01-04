@@ -43,3 +43,4 @@ _Add your channel here! PM Chew or [send a PR](https://github.com/ChewCraft/IRC/
 - [#ChewPack](channels/chewpack)
 - [#CloudCity](channels/cloudcity)
 - [#cats](channels/cats)
+- [#minecraft](channels/minecraft)
