@@ -39,7 +39,7 @@ _Add your bot here in #bots_
 - [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
-_Add your channel here! PM Chew or [send a PR](https://github.com/ChewCraft/IRC/blob/master/info/addchannel.md)._
+_Add your channel here! PM Chew or [send a PR](https://github.com/ChewChat/IRC/blob/master/info/addchannel.md)._
 - [#ChewPack](channels/chewpack)
 - [#CloudCity](channels/cloudcity)
 - [#cats](channels/cats)
