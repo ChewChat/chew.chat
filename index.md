@@ -26,6 +26,7 @@ Repository for the ChewChat IRC Network.
 - [#help](channels/help)
 - [#bots](channels/bots)
 - [#website](channels/website)
+- [#lgbt](channels/lgbt)
 
 ## NetAdmin Approved
 - [#Cah](channels/cah)
