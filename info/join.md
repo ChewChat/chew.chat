@@ -11,4 +11,4 @@ cah.chew.chat   | Active! | 6667 | 6697     | Cah
 
 [KiwiIRC Link](http://chew.chat/webchat) - No Sign-Up, Connection Closes on tab close.
 
-[IRCCloud Link](https://www.irccloud.com/invite?channel=%23lobby&hostname=irc.chew.pro&port=6667) - Sign-Up AND Email Verification Needed. Won't close connection when tab closes.
+[IRCCloud Link](https://www.irccloud.com/invite?channel=%23lobby&hostname=irc.chew.chat&port=6697&ssl=1) - Sign-Up AND Email Verification Needed. Won't close connection when tab closes.
