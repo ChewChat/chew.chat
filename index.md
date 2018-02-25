@@ -36,7 +36,6 @@ Repository for the ChewChat IRC Network.
 ## Official Bot Channels
 _Add your bot here in #bots_
 - [#Chewbotcca](channels/chewbotcca) - [Chewbotcca](http://irc.chewbotcca.co)
-- [#CafeBabe](channels/cafebabe) - CafeBabe
 - [#ircahbot](channels/ircahbot) - [IRCahBot](https://github.com/Cahbots/IRCahBot)
 
 ## User Owned Channels
